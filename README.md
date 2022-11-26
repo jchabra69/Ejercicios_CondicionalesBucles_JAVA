@@ -1,6 +1,6 @@
 # Ejercicios_CondicionalesBucles_JAVA
 
-1.- Escriba un programa que pida primero un
+# 1.- Escriba un programa que pida primero un
 número par y luego un número impar (positivos o negativos). En caso de
 que uno o los dos valores no sea correcto, se mostrará un único aviso.
 E IMPAR (1)
@@ -49,7 +49,7 @@ Ejecute de nuevo el programa para volver a intentarlo.
 
 
 
-2.- Escriba un programa que pida primero un número par (positivo o
+# 2.- Escriba un programa que pida primero un número par (positivo o
 negativo) y si el valor no es correcto, muestre un aviso. Si el valor es
 correcto, pedirá un número impar (positivo o negativo) y si el valor no
 es correcto, mostrará un aviso.
@@ -99,7 +99,7 @@ Ejecute de nuevo el programa para volver a intentarlo.
 
 
 
-3.- Escriba un programa que pida primero un número par y a
+# 3.- Escriba un programa que pida primero un número par y a
 continuación un numero impar (positivos o negativos). En caso de que uno
 o los dos valores no sean correctos, se mostrarán uno o dos avisos.
 
@@ -171,7 +171,7 @@ Ejecute de nuevo el programa para volver a intentarlo.
 
 
 
-4.- Escriba un programa que pida primero un número par y a
+# 4.- Escriba un programa que pida primero un número par y a
 continuación un numero impar (positivos o negativos). En cada petición,
 si el valor no es correcto se mostrará un aviso.
 
@@ -203,10 +203,10 @@ Ejecute de nuevo el programa para volver a intentarlo.
 
 
 
-5.- Realiza un programa que calcule la suma acumulada de los primeros N números positivos, siendo N obtenido por teclado.
+# 5.- Realiza un programa que calcule la suma acumulada de los primeros N números positivos, siendo N obtenido por teclado.
 Es decir, si N = 3, el resultado es 1+2+3 -> 6
 Si N = 5, el resultado es 1+2+3+4+5 -> 15
 
 
-6.- Realiza un programa que calcule los múltiplos del número M entre el valor MIN y MAX. Los valores de M, MIN y MAX se leen de teclado.
+# 6.- Realiza un programa que calcule los múltiplos del número M entre el valor MIN y MAX. Los valores de M, MIN y MAX se leen de teclado.
 Ejemplo: M = 4, MIN = 38, MAX = 50. Resultado: 40, 44, 48
